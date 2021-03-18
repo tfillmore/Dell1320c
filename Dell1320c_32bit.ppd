@@ -8,7 +8,7 @@
 *%
 *%   Copyright 2005 by Fuji Xerox Co.,Ltd.
 *%
-*FileVersion: "1.5"
+*FileVersion: "1.0"
 *FormatVersion: "4.3"
 *LanguageEncoding: ISOLatin1
 *LanguageVersion: English
@@ -19,14 +19,6 @@
 *ShortNickName: "Dell 1320c"
 *ModelName: "Dell 1320c"
 *NickName: "Dell 1320c"
-*cupsVersion: 1.1
-*cupsManualCopies: False
-*cupsFilter: "application/vnd.cups-postscript 0 /opt/Dell1320/filter/FXM_PF"
-*cupsModelNumber: 0
-*FXMainFilter: "/opt/Dell1320/filter/FXM_MF"
-*FXFilterDir: "/opt/Dell1320/filter"
-*FXFilterChain: "FXM_PS2PM, FXM_PM2FXR, FXM_SBP, FXM_PR, FXM_CC, FXM_ALC, FXM_HBPL"
-*FXDlutFilePath: "/opt/Dell1320/dlut/FX_DocuPrint_C525_A_AP.dlut"
 
 *% === Options and Constraints =========
 *OpenGroup: InstallableOptions/Options Installed
